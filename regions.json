@@ -39,11 +39,9 @@
     "Spain",
     "Sweden",
     "Switzerland",
-    "Tajikistan",
     "Turkey",
     "Ukraine",
     "United Kingdom",
-    "Uzbekistan",
     "Wales"
   ],
   "Americas": [
@@ -73,23 +71,19 @@
   "Asia-Pacific": [
     "Afghanistan",
     "Australia",
-    "Azerbaijan",
     "Bahrain",
     "Bangladesh",
     "Brunei",
     "Cambodia",
     "China",
     "Cyprus",
-    "Georgia",
     "Hong Kong",
     "India",
     "Indonesia",
     "Israel",
     "Japan",
     "Jordan",
-    "Kazakhstan",
     "Kuwait",
-    "Kyrgyzstan",
     "Laos",
     "Lebanon",
     "Macau",
@@ -109,7 +103,6 @@
     "Taiwan",
     "Tajikistan",
     "Thailand",
-    "Turkey",
     "Turkmenistan",
     "Uzbekistan"
   ]
